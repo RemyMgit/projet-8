@@ -1,0 +1,12 @@
+charte graphique,
+titre couleur police
+titrologie
+architecture du projet (p6)
+repo git p8
+banniere
+base de donné des projets
+ressources images
+mot clé en prio (dev web, react dev)
+
+spec technique et fonctionnel pour le p8
+maquette du site
